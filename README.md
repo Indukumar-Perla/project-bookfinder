@@ -1,6 +1,7 @@
 # Project Book Finder Application
 
 ## Overview
+Live Demo: https://6k4w2h-5173.csb.app
 Project Book Finder is a React + TypeScript application built using the Vite build tool.  
 It provides users with the ability to search, filter, and view information about books through an integrated API (Open Library API).  
 The project demonstrates a modern front-end workflow with TypeScript, Tailwind CSS, and component-based architecture.
@@ -107,4 +108,5 @@ project/
 Developer: Indukumar Perla<br>
 University: Chandigarh University<br>
 Branch: CSE - AIML<br>
+Contact: https://github.com/Indukumar-Perla/<br>
 Project Type: Hiring Assignment
